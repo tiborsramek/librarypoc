@@ -1,0 +1,2 @@
+include ':app', ':librarypoc'
+rootProject.name='Library POC'
